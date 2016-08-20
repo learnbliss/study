@@ -19,6 +19,7 @@ function hideEl(e) {
             console.log(i, forEl);
         }
         toggle(forEl);
+        
     }
 
 }
